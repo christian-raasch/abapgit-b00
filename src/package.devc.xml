@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>cld400 test</CTEXT>
+    <CTEXT>abapgit test 000</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
